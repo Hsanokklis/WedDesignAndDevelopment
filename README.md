@@ -13,5 +13,4 @@
 > [!IMPORTANT]
 > Ur mom!
 
-> ![#c5f015](Hello) #c5f015
 
