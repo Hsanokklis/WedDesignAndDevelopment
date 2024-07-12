@@ -3,4 +3,4 @@
 
 ## I will be following along with CodeHS Tutorials that can be found on Youtube [Here](https://www.youtube.com/watch?v=Nsw0rAQOqos&list=PLUEYQSaHI9SK6P6LaBOVtK0POhFu5GDKR) 
 
-## You can find notes on the tutorials, and how-tos with the Wiki in this repo! 
+## You can find notes on the tutorials, and how-tos within the [Wiki](https://github.com/Hsanokklis/WedDesignAndDevelopment/wiki) in this repo! 
