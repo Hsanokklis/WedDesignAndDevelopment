@@ -1,8 +1,8 @@
 
 # $${\color{purple}Welcome \space to \space  my \space  Web \space  Design \space and \space Development \space  Repo!}$$
 
-_I took a web design class in high school, and really enjoyed it! As I have started college I have had not had much time to refine my web design/dev skills, so this repo will house my practice! My intent is to make this wiki a dictionary so if I forget how do something I can easily reference it here!_
+_To practice my skills in website management and security, I will be setting up and hosting a website on WordPress via Porkbun and Linode. This website will be for my photography business, and I will be continualy updating and working on it!_
 
-## I will be following along with CodeHS Tutorials that can be found on Youtube [Here](https://www.youtube.com/watch?v=Nsw0rAQOqos&list=PLUEYQSaHI9SK6P6LaBOVtK0POhFu5GDKR) 
+_In this Repo I will detail the steps I have took to set up the site, and takes helpful notes for future reference!_
 
-## You can find notes on the tutorials, and how-tos within this repo's [Wiki](https://github.com/Hsanokklis/WedDesignAndDevelopment/wiki)!
+## _Head over to the Wiki to see my documentation_
